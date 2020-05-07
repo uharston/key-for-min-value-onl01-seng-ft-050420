@@ -11,6 +11,9 @@ def key_for_min_value(name_hash)
      min_key = key #update the value
      min_value = value  #should maybe also uodate the key???
    end
-   return key
+   return min_key
  end
 end
+
+
+
