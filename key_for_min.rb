@@ -12,5 +12,5 @@ def key_for_min_value(name_hash)
      min_value = value  #should maybe also uodate the key???
    end
  end
-  min_key 
+  min_key
 end
