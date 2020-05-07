@@ -10,7 +10,7 @@ def key_for_min_value(name_hash)
       if  min_value == nil || value < min_value
      min_key = key #update the value
      min_value = value  #should maybe also uodate the key???
-  end
-end
-  return key
+   end
+   return key 
+ end
 end
